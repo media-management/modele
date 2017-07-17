@@ -50,10 +50,15 @@ table {
 img {
 	vertical-align: bottom;
 }
-.clear {
+.clearfix {
 	clear: both;
 }
+
 h1 {
 	color: blue;
+}
+
+* {
+  box-sizing: border-box;
 }
 
