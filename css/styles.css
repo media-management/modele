@@ -54,6 +54,10 @@ img {
 	clear: both;
 }
 
+body {
+	font-size: 16px;
+}
+
 h1 {
 	color: blue;
 }
