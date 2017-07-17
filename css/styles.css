@@ -50,7 +50,7 @@ table {
 img {
 	vertical-align: bottom;
 }
-.clear {
+.clearfix {
 	clear: both;
 }
 
